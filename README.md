@@ -14,3 +14,5 @@ https://www.figma.com/proto/LxGpLoFIcgi3U3Wxt9cGhD/Untitled?node-id=3-57&t=JXp5u
 Lien de la démo vidéo : 
 https://youtu.be/z2aW1G-diyc
 https://youtu.be/rpZi-Jq8va8
+
+Développé par Barré Logan et SIEYS Ulric dans le cadre du Projet SecRue à l'ESILV
